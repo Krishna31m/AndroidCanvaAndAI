@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var sendButton: Button
     private lateinit var chatScroll: ScrollView
 
-    private val apiKey = "AIzaSyBSqgMUFMCQcUQU4lLCDek4m0gzxRrxdPc" // 🔑 Replace with your Gemini API key
+    private val apiKey = "" // 🔑 Replace with your Gemini API key
     private val apiService by lazy { RetrofitClient.getClient(apiKey) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
