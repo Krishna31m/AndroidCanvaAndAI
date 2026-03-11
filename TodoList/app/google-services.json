@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "878219791975",
+    "firebase_url": "https://todolist-db45f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todolist-db45f",
+    "storage_bucket": "todolist-db45f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878219791975:android:4a038794e7ba388d798ec2",
+        "android_client_info": {
+          "package_name": "com.krishna.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD961EwGfTNZ-kA96hrTxvqH6K8L37XwY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

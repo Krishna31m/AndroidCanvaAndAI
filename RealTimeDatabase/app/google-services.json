@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "67564145840",
+    "firebase_url": "https://realtimedatabase-850aa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtimedatabase-850aa",
+    "storage_bucket": "realtimedatabase-850aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67564145840:android:835f1cfa8dd5f497dc7f75",
+        "android_client_info": {
+          "package_name": "com.krishna.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tTr5Cedp8BfakvZjeSzliuDy9EO6QhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

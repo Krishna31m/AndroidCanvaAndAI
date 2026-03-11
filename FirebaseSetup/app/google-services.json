@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "940525760819",
+    "firebase_url": "https://fir-setups-11d58-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-setups-11d58",
+    "storage_bucket": "fir-setups-11d58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940525760819:android:93e18d50b109a32790ce46",
+        "android_client_info": {
+          "package_name": "com.krishna.firebasesetup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8P7hctzoQxSa6Azais1WDxhS3Crf99o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
