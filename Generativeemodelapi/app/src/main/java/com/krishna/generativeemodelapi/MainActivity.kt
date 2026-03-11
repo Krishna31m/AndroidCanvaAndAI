@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var btnSuggest: Button
     lateinit var txtResult: TextView
 
-    val apiKey = "AIzaSyAMQseWfgMxMB7krhhfOcgHjHf84-cn3FY"
+    val apiKey = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
